@@ -1,3 +1,5 @@
+# Copyright Jonathan Booher 2017. All rights reserverd
+
 import multiresolutionimageinterface as mir
 from PIL import Image
 import PIL
