@@ -1,3 +1,4 @@
+# Copyright Jonathan Booher 2017. All rights reserverd
 
 import tensorflow as tf
 from nets import inception, resnet_v2
