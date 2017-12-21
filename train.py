@@ -1,3 +1,4 @@
+# Copyright Jonathan Booher 2017. All rights reserverd
 
 import tensorflow as tf
 
