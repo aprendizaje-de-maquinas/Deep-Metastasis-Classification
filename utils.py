@@ -1,3 +1,4 @@
+# Copyright Jonathan Booher 2017. All rights reserverd
 
 from selective_search import SelectiveSearch
 import multiresolutionimageinterface as mir
